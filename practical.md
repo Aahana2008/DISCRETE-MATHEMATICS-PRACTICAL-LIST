@@ -33,4 +33,41 @@
 
 <img width="1227" height="528" alt="image" src="https://github.com/user-attachments/assets/1c48889d-eb4a-435c-907a-a2fa13ef07b8" />
 
+#### Create a class RELATION, use Matrix notation to represent a relation. Include member functions to check if the relation is Reflexive, Symmetric, Anti-symmetric, Transitive. Using 
+#### these functions check whether the given relation is: Equivalence or Partial Order relation or  None 
+
  
+<img width="1099" height="557" alt="image" src="https://github.com/user-attachments/assets/4ca786dd-3930-4607-a2f4-2767646d3764" />
+
+<img width="539" height="532" alt="image" src="https://github.com/user-attachments/assets/c287028f-150f-491e-a77e-7542bcc85025" />
+
+<img width="513" height="524" alt="image" src="https://github.com/user-attachments/assets/73966ce2-c0f9-4122-beff-4201fbfff623" />
+
+#### Write a Program that generates all the permutations of a given set of digits, with or without repetition. 
+
+### Without Repetition (Using Swapping)
+
+<img width="1088" height="541" alt="image" src="https://github.com/user-attachments/assets/8a494a78-4cb1-465b-b49d-6a4506cfb7ba" />
+
+### With Repetition Allowed
+
+<img width="1080" height="537" alt="image" src="https://github.com/user-attachments/assets/4cbcea48-b6d5-4372-9916-4d4781afca5f" />
+
+#### For any number n, write a program to list all the solutions of the equation x1 + x2 + x3 + ...+  xn = C, where C is a constant (C<=10) and x1, x2, x3,...,xn are nonnegative 
+#### integers, using  brute force strategy. 
+
+<img width="1123" height="544" alt="image" src="https://github.com/user-attachments/assets/9573e7df-30d5-4828-8d02-c73b4eec07f4" />
+<img width="357" height="185" alt="image" src="https://github.com/user-attachments/assets/18eafd6d-730a-455f-ae93-74df92e2842a" />
+
+#### Write a Program to evaluate a polynomial function. (For example store f(x) = 4n2 + 2n + 9  in an array and for a given value of n, say n = 5, compute the value of f(n)).  
+
+<img width="1109" height="550" alt="image" src="https://github.com/user-attachments/assets/50bc39ce-4d0a-4fbb-b7bb-a325010310d6" />
+
+#### Write a Program to check if a given graph is a complete graph. Represent the graph using  the Adjacency Matrix representation. 
+
+<img width="1124" height="572" alt="image" src="https://github.com/user-attachments/assets/fa44aea2-4b5a-4550-a82c-f9dc26f2b657" />
+
+
+#### Write a Program to accept a directed graph G and compute the in-degree and outdegree of  each vertex. 
+
+<img width="1019" height="558" alt="image" src="https://github.com/user-attachments/assets/0b55902d-b266-4828-9912-f4695846751e" />
